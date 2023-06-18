@@ -1,0 +1,28 @@
+h1{
+    background-color: black;
+    text-align: center;
+    color:crimson;
+}
+p{
+    font-size: 20%;
+}
+main{
+    margin-left: 120px;
+}
+.box{
+    display: block;
+    float:left;
+    width: 20%;
+    padding: 10px;
+    padding-left: 12px;
+    overflow: hidden;
+}
+img{
+    width: 100%;
+    border-radius: 5px;
+}
+img:hover{
+    transform: scale(2,2);
+    transform: .3s transfrom;
+    border-radius: 5px;
+}
